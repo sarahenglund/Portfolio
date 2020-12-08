@@ -8,22 +8,6 @@ body {
     background-color: #a67e76c0;
 }
 
-
-header {
-    background-color: #a67e76c4;
-    display: flex;
-    justify-content: space-between;
-    height:70px;
-    
-}
-
-header div {
-    position: relative;
-        top: 0; left: 20px; right: 0; bottom: 0;
-    width: 200px;
-    
-}
-
 /*Burgermenu*/
 a{
     color: black;
